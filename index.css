@@ -1,0 +1,51 @@
+body{
+    background-image: url("images/bg_img.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #0d5353;
+    display: flex;
+    justify-content: space-around;
+    
+    
+}
+
+#avatar{
+    width: 250px;
+    
+    border: 6px outset #87e7e7;
+    padding: 10px;
+    background: #5F9EA0;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+
+
+
+}
+.part_1{
+    text-align: left;
+    float: left;
+    width: 600px;
+    font-family: 'Salsa', cursive;
+    font-weight: lighter;
+   
+}
+#insta{
+    width: 30px;
+    margin-top: 2px;
+}
+#git{
+    width: 30px;
+    margin-top: 2px;
+}
+#linkdn{
+    width: 30px;
+    margin-top: 2px;
+}
+#mail{
+    color: rgb(63, 63, 63);
+}
+#no{
+    color: rgb(63, 63, 63);
+}
